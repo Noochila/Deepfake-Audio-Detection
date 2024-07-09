@@ -32,10 +32,6 @@ To install and run this codebase on your machine, please follow the steps below:
     pip install -r requirements.txt
     ```
 
-5. Run the application:
-    ```
-    python main.py
-    ```
 
 
 ## Folder Structure
